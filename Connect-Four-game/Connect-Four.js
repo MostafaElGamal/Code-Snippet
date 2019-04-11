@@ -58,7 +58,6 @@ function winCheck() {
   upDown()
   SouthE_NorthW()
   NorthE_SouthW()
-
 }
 
 // -------------------------------------------------------
